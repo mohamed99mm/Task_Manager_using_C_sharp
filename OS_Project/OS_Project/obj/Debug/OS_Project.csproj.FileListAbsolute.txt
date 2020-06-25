@@ -1,0 +1,24 @@
+D:\Visual studio 2019 projects\OS_Project\OS_Project\bin\Debug\OS_Project.exe.config
+D:\Visual studio 2019 projects\OS_Project\OS_Project\bin\Debug\OS_Project.exe
+D:\Visual studio 2019 projects\OS_Project\OS_Project\bin\Debug\OS_Project.pdb
+D:\Visual studio 2019 projects\OS_Project\OS_Project\obj\Debug\OS_Project.csprojAssemblyReference.cache
+D:\Visual studio 2019 projects\OS_Project\OS_Project\obj\Debug\OS_Project.exe
+D:\Visual studio 2019 projects\OS_Project\OS_Project\obj\Debug\OS_Project.pdb
+E:\Study\OS\Study\OS_Project\OS_Project\bin\Debug\OS_Project.exe.config
+E:\Study\OS\Study\OS_Project\OS_Project\bin\Debug\OS_Project.exe
+E:\Study\OS\Study\OS_Project\OS_Project\bin\Debug\OS_Project.pdb
+E:\Study\OS\Study\OS_Project\OS_Project\obj\Debug\OS_Project.csprojAssemblyReference.cache
+E:\Study\OS\Study\OS_Project\OS_Project\obj\Debug\OS_Project.exe
+E:\Study\OS\Study\OS_Project\OS_Project\obj\Debug\OS_Project.pdb
+C:\Users\Mohamed\Desktop\OS_Project\OS_Project\bin\Debug\OS_Project.exe.config
+C:\Users\Mohamed\Desktop\OS_Project\OS_Project\bin\Debug\OS_Project.exe
+C:\Users\Mohamed\Desktop\OS_Project\OS_Project\bin\Debug\OS_Project.pdb
+C:\Users\Mohamed\Desktop\OS_Project\OS_Project\obj\Debug\OS_Project.csprojAssemblyReference.cache
+C:\Users\Mohamed\Desktop\OS_Project\OS_Project\obj\Debug\OS_Project.exe
+C:\Users\Mohamed\Desktop\OS_Project\OS_Project\obj\Debug\OS_Project.pdb
+D:\Visual studio 2019 projects\C# Projects\OS_Project\OS_Project\bin\Debug\OS_Project.exe.config
+D:\Visual studio 2019 projects\C# Projects\OS_Project\OS_Project\bin\Debug\OS_Project.exe
+D:\Visual studio 2019 projects\C# Projects\OS_Project\OS_Project\bin\Debug\OS_Project.pdb
+D:\Visual studio 2019 projects\C# Projects\OS_Project\OS_Project\obj\Debug\OS_Project.csprojAssemblyReference.cache
+D:\Visual studio 2019 projects\C# Projects\OS_Project\OS_Project\obj\Debug\OS_Project.exe
+D:\Visual studio 2019 projects\C# Projects\OS_Project\OS_Project\obj\Debug\OS_Project.pdb
